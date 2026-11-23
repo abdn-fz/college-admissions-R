@@ -10,7 +10,7 @@ Projet de portfolio simulant un flux récurrent de rapports statistiques pour le
 - Exporter des jeux de données nettoyés, des tableaux de synthèse et des visualisations prêts pour le reporting.
 
 ## Jeu de données
-Le jeu de données est entièrement synthétique et fictif. Il ne provient pas de La Cité ni d'aucun établissement d'enseignement réel.
+Le jeu de données est entièrement synthétique et fictif. Il ne provient d'aucun établissement d'enseignement réel.
 
 Il comprend 12 extractions hebdomadaires (`weekly_snapshot`) couvrant la période du `2026-08-31` au `2026-11-16`. Chaque extraction présente les demandes reçues jusqu'à cette date ainsi que leur statut à ce moment précis.
 
