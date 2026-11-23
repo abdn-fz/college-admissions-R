@@ -1,0 +1,5 @@
+"admission_decision","nombre","moyenne","mediane","minimum","maximum"
+"Admitted",5374,16.52,14,1,147
+"Pending",1,2,2,2,2
+"Rejected",1933,16.2,13,1,150
+"Waitlisted",545,17.55,14,1,165
